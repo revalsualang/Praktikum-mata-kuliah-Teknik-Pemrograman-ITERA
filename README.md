@@ -6,46 +6,6 @@ Program Studi **Teknik Geofisika**, Fakultas Teknologi Industri
 
 ---
 
-## 📂 Struktur Repository
-
-```
-Praktikum-mata-kuliah-Teknik-Pemrograman-ITERA
-├── Modul_1
-│   ├── Topik_1.py
-│   ├── Topik_2.py
-│   ├── Topik_3.py
-│   ├── Topik_4.py
-│   ├── Topik_5.py
-│   └── Topik_6.py
-│
-├── Modul_2
-│   ├── Topik_1.py
-│   ├── Topik_2.py
-│   ├── Topik_3.py
-│   ├── Topik_4.py
-│   ├── Topik_5.py
-│   └── Topik_6.py
-│
-├── Modul_3
-│   ├── Topik_1.py
-│   ├── Topik_2.py
-│   ├── Topik_3.py
-│   ├── Topik_4.py
-│   ├── Topik_5.py
-│   └── Topik_6.py
-│
-├── Modul_4
-│   ├── Topik_1_FileHandling.py
-│   ├── Topik_2_NumPy.py
-│   ├── Topik_3_Pandas.py
-│   ├── Topik_4_SciPy.py
-│   └── Topik_5_Tugas_Praktikum.py
-│
-└── README.md
-```
-
----
-
 ## 📘 Deskripsi Modul
 
 ### 🔹 Modul 1 – Dasar Pemrograman Python
